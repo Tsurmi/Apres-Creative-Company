@@ -15,7 +15,7 @@ You can run both the previous steps in one command:
 `npm run install:client && npm run install:server`
 
 5) Start Client
-`npm run run start:client`
+`npm run start:client`
 
 6) Start Server
 `npm run start:server`
